@@ -1,0 +1,29 @@
+Humantic — End-User License
+© 2026 The Humantic authors. All rights reserved.
+
+Humantic is provided free of charge. By installing or using it you agree to the following:
+
+1. Use. You may install and use Humantic on devices you own or control, for personal or work purposes, at no cost.
+
+2. Restrictions. You may not:
+   a. copy, modify, adapt, translate or create derivative works of Humantic or any part of it;
+   b. reverse engineer, decompile, disassemble, de-obfuscate or otherwise attempt to derive its source code,
+      except where applicable law expressly permits this despite this restriction;
+   c. redistribute, share, sell, rent, lend, sublicense or publish Humantic or its installers;
+      it may be obtained only from the official download location;
+   d. remove or alter any copyright notice or this license.
+
+3. Your data and your providers. Humantic stores your data on your own device. You use your own
+   AI provider accounts and API keys and are responsible for their terms and costs. Content you send
+   to an AI provider is handled by that provider.
+
+4. Third-party components. Humantic includes open-source components that are licensed under their own
+   terms, listed in THIRD_PARTY_NOTICES.txt. Nothing in this license limits your rights under those terms.
+
+5. No warranty. Humantic is provided "as is", without warranty of any kind, express or implied,
+   including fitness for a particular purpose. AI output can be wrong; review it before relying on it.
+
+6. Limitation of liability. To the extent permitted by law, the authors are not liable for any damages
+   arising from the use of or inability to use Humantic, including loss of data.
+
+7. Termination. This license ends automatically if you breach it; you must then stop using Humantic.
